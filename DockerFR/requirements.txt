@@ -2,3 +2,13 @@ fastapi
 pydantic
 uvicorn[standard]
 python-multipart
+numpy
+Pillow
+scikit-image
+# InsightFace (ONNXRuntime backend) for detection/recognition
+insightface>=0.7.1
+onnxruntime
+pillow-avif-plugin
+retina-face
+opencv-python
+tf-keras
